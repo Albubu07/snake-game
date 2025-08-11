@@ -11,6 +11,7 @@ Nina Schettini Lundgren
 ### Arquitetura do Projeto
 
 ### Screenshots
+![image](https://github.com/Albubu07/snake-game/blob/main/Screenshot%202025-08-11%20105011.png?raw=true)
 
 ### Ferramentas utilizados
 
@@ -20,7 +21,6 @@ Nina Schettini Lundgren
 
 ### Aprendizado
 
-![image](https://github.com/Albubu07/snake-game/blob/main/Screenshot%202025-08-11%20105011.png?raw=true)
 
 
 
