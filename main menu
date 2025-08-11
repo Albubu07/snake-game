@@ -1,0 +1,115 @@
+import pygame
+from pygame.locals import *
+from sys import exit
+
+pygame.init()
+LARGURA, ALTURA = 800, 600
+TELA = pygame.display.set_mode((LARGURA, ALTURA))
+fonte = pygame.font.SysFont('times new roman', 30, True, False)
+
+def nivel_um():
+    while True:
+        pygame.display.set_caption('Nivel 1')
+        TELA.fill('blue')
+        cobra = Cobra()
+        cobra.corpo()
+        cobra.movimentar()
+        cobra.desenhar_cobra(TELA)
+        pygame.display.update()
+
+        for event in pygame.event.get():
+            if event.type == QUIT:
+                pygame.quit()
+                exit()
+            if event.type == KEYDOWN:
+                if event.key == K_ESCAPE:
+                    selecao_nivel()
+
+def nivel_dois():
+    while True:
+        pygame.display.set_caption('Nivel 2')
+        TELA.fill('black')
+        pygame.display.update()
+
+        for event in pygame.event.get():
+            if event.type == QUIT:
+                pygame.quit()
+                exit()
+            if event.type == KEYDOWN:
+                if event.key == K_ESCAPE:
+                    selecao_nivel()
+
+def nivel_tres():
+    while True:
+        pygame.display.set_caption('Nivel 3')
+        TELA.fill('green')
+        pygame.display.update()
+
+        for event in pygame.event.get():
+            if event.type == QUIT:
+                pygame.quit()
+                exit()
+            if event.type == KEYDOWN:
+                if event.key == K_ESCAPE:
+                    selecao_nivel()
+
+def nivel_quatro():
+    while True:
+        pygame.display.set_caption('Nivel 4')
+        TELA.fill('red')
+        pygame.display.update()
+
+        for event in pygame.event.get():
+            if event.type == QUIT:
+                pygame.quit()
+                exit()
+            if event.type == KEYDOWN:
+                if event.key == K_ESCAPE:
+                    selecao_nivel()
+
+def selecao_nivel():
+    while True:
+        pygame.display.set_caption('Main Menu')
+        TELA.fill('white')
+
+        msg = 'Clique 1, 2, 3, 4 para escolher o nível'
+        texto_msg = fonte.render(msg, True, ('black'))
+        TELA.blit(texto_msg, ((LARGURA//2) - 200, ALTURA//2))
+        
+        for event in pygame.event.get():
+            if event.type == QUIT:
+                pygame.quit()
+                exit()
+            
+            if event.type == KEYDOWN:
+                if event.key == K_1:
+                    nivel_um()
+                elif event.key == K_2:
+                    nivel_dois() 
+                elif event.key == K_3:
+                    nivel_tres() 
+                elif event.key == K_4:
+                    nivel_quatro()    
+        
+        pygame.display.update()
+
+def main_menu():
+    while True:
+        pygame.display.set_caption('Main Menu')
+        TELA.fill('white')
+
+        msg = 'Clique SPACE para continuar'
+        texto_msg = fonte.render(msg, True, ('black'))
+        TELA.blit(texto_msg, ((LARGURA//2) - 200, ALTURA//2))
+        
+        for event in pygame.event.get():
+            if event.type == QUIT:
+                pygame.quit()
+                exit()
+            if event.type == KEYDOWN:
+                if event.key == K_SPACE:
+                    selecao_nivel()
+        
+        pygame.display.update()
+
+main_menu()
