@@ -11,7 +11,7 @@ Nina Schettini Lundgren
 ### Arquitetura do Projeto
 
 ### Screenshots
-![image](https://github.com/Albubu07/snake-game/blob/main/image1.png)
+![image](https://github.com/Albubu07/snake-game/blob/main/images/image1.png)
 ![image](https://github.com/Albubu07/snake-game/blob/main/Screenshot%202025-08-11%20105011.png?raw=true)
 ### Ferramentas utilizados
 Para o desenvolvimento do projeto, utilizamos o GitHub como sistema de controle de versão e o Visual Studio Code como ambiente de desenvolvimento integrado. A implementação do jogo é realizada através da biblioteca Pygame, que oferece funcionalidades essenciais para criação de jogos 2D em Python.
