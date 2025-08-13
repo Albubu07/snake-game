@@ -244,4 +244,5 @@ class Game:
                             esperando = False
 # =================== EXECUÇÃO ===================
 if __name__ == "__main__":
+
     Game().loop()
