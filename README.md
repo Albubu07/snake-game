@@ -9,6 +9,7 @@ Heitor Luiz dos Santos Silva
 Nina Schettini Lundgren  
 
 ### Arquitetura do Projeto
+O código organiza o jogo Cinsnake em Pygame dividido em quatro funções principais, cada uma representando um nível, com configurações próprias de tempo, velocidade, cores, quantidade de itens e inimigos. Em cada nível, a lógica funciona na classe Game, que controla todo o ciclo: inicialização, posicionamento de elementos, atualização do estado, controle de colisões, renderização na tela e verificação de vitória ou derrota. Além disso, há classes externas (Snake, Item e Hunter, importadas de outros arquivos) responsáveis por comportamentos específicos: a Snake gerencia o movimento, crescimento e colisões da cobra; a Item representa frutas e vidas no jogo, com reposicionamento controlado; e a Hunter atua como inimigo móvel que atrapalha ou colide com a cobra. O código ainda possui funções auxiliares para tocar músicas e efeitos sonoros, além do menu para iniciar o jogo e escolher os níveis. 
 
 ### Screenshots
 ![image](https://github.com/Albubu07/snake-game/blob/main/versões/images/image1.png)  
