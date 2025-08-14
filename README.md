@@ -1,12 +1,12 @@
 # Cinsnake
 
 **Grupo:**  
-*João Pedro de Aquino Duarte*  
-*Yasminn Costa Moura Silva*  
-*Arthur Albuquerque Santos*  
-*Pedro de Souza Leão Pereira Magnata*  
-*Heitor Luiz dos Santos Silva*  
-*Nina Schettini Lundgren*  
+>*João Pedro de Aquino Duarte*  
+>*Yasminn Costa Moura Silva*  
+>*Arthur Albuquerque Santos*  
+>*Pedro de Souza Leão Pereira Magnata*  
+>*Heitor Luiz dos Santos Silva*  
+>*Nina Schettini Lundgren*  
 
 **Curso:** *Engenharia da Computação*  
 **Docente:** *Juliano Iyoda*  
