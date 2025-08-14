@@ -1,12 +1,14 @@
 # Cinsnake
 
-Grupo:  
-**João Pedro de Aquino Duarte**  
-**Yasminn Costa Moura Silva**  
-**Arthur Albuquerque Santos**  
-**Pedro de Souza Leão Pereira Magnata**  
-**Heitor Luiz dos Santos Silva**  
-**Nina Schettini Lundgren**  
+**Grupo:**  
+João Pedro de Aquino Duarte  
+Yasminn Costa Moura Silva  
+Arthur Albuquerque Santos  
+Pedro de Souza Leão Pereira Magnata  
+Heitor Luiz dos Santos Silva  
+Nina Schettini Lundgren  
+**Curso:** Engenharia da Computação  
+**Docente:** Juliano Iyoda  
 
 ### Como funciona o jogo
 No Cinsnake, o jogador controla uma cobra que se move pela tela com as setas do teclado, tentando comer frutas para crescer e marcar pontos. A cada nível, a velocidade, o tempo limite e a quantidade de inimigos variam, tornando o desafio maior. Enquanto coleta frutas, o jogador precisa evitar colidir com o próprio corpo e com inimigos chamados Hunters, que se movem verticalmente. Também é possível coletar itens de vida para não morrer quando colidir com  os Hunters. O objetivo é completar o nível antes que o tempo acabe, sobrevivendo e atingindo a meta de pontuação definida. Se a cobra colide com o Hunters sem vida suficiente ou o tempo chega a zero, o jogador perde no respesctivo nível.
