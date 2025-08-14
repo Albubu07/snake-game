@@ -33,7 +33,10 @@ Terceiro código completo com todas as metas alcançadas antes do prazo, nos per
 ![image](https://github.com/Albubu07/snake-game/blob/7f1c1992d6a4e9acda99e7d685353b8c31b98bbd/vers%C3%B5es/images/image4.jpeg)  
 Último código desenvolvido aplicando sprites e deixando o jogo mais bonito.  
 
-Aqui estão algumas telas do jogo:
+Aqui estão algumas telas do jogo:  
+![image](https://github.com/Albubu07/snake-game/blob/bf5f973f5a1c473d95ba1045f53780ff23edd55f/images/menus/menu.png)
+![image](https://github.com/Albubu07/snake-game/blob/bf5f973f5a1c473d95ba1045f53780ff23edd55f/images/menus/select.png)
+![image](https://github.com/Albubu07/snake-game/blob/bf5f973f5a1c473d95ba1045f53780ff23edd55f/images/menus/win.png)
 
 
 ### Ferramentas utilizados
