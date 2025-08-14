@@ -1,4 +1,4 @@
-# snake-game
+# CinSnake
 
 Grupo:  
 **João Pedro de Aquino Duarte**  
