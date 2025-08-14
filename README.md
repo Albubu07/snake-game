@@ -8,7 +8,9 @@ Grupo:
 **Heitor Luiz dos Santos Silva**  
 **Nina Schettini Lundgren**  
 
-### Arquitetura do Projeto
+### Como funciona o jogo
+
+### Arquitetura do Código
 O código organiza o jogo Cinsnake no **Pygame** através de quatro funções principais, cada uma representando um nível, com configurações próprias de tempo, velocidade, cores, quantidade de itens e inimigos. Em cada nível, a lógica funciona na classe Game, que controla todo o ciclo: inicialização, posicionamento de elementos, atualização do estado, controle de colisões, renderização na tela e verificação de vitória ou derrota.  
 ![image](https://github.com/Albubu07/snake-game/blob/8b134a622dbfd3b4213a855a2489bcaa1b83aff9/vers%C3%B5es/images/nvl1.png)
 ![image](https://github.com/Albubu07/snake-game/blob/8b134a622dbfd3b4213a855a2489bcaa1b83aff9/vers%C3%B5es/images/nvl2.png)
