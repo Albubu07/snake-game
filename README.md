@@ -13,10 +13,13 @@ Nina Schettini Lundgren
 ### Screenshots
 ![image](https://github.com/Albubu07/snake-game/blob/main/versões/images/image1.png)  
 Primeiro código de teste realizado, mas ainda adquirindo conhecimentos sobre o pygame e pensando o que poderíamos fazer para atingir as metas.  
+
 ![image](https://github.com/Albubu07/snake-game/blob/main/versões/images/image2.png)  
 Segundo código concluído, metas parcialmente atingidas, faltava apenas a implementação de POO que estávamos em processo de aprendizagem ainda.  
+
 ![image](https://github.com/Albubu07/snake-game/blob/main/versões/images/image3.jpeg)  
 Terceiro código completo com todas as metas alcançadas antes do prazo, nos permitindo ampliar nosso jogo para as sprites.  
+
 ![image](https://github.com/Albubu07/snake-game/blob/7f1c1992d6a4e9acda99e7d685353b8c31b98bbd/vers%C3%B5es/images/image4.jpeg)  
 Último código desenvolvido aplicando sprites e deixando o jogo mais bonito.  
 ### Ferramentas utilizados
