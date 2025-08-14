@@ -7,6 +7,7 @@
 *Pedro de Souza Leão Pereira Magnata*  
 *Heitor Luiz dos Santos Silva*  
 *Nina Schettini Lundgren*  
+
 **Curso:** *Engenharia da Computação*  
 **Docente:** *Juliano Iyoda*  
 
