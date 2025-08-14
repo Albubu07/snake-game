@@ -1,4 +1,4 @@
-# CinSnake
+# Cinsnake
 
 Grupo:  
 **João Pedro de Aquino Duarte**  
